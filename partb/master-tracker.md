@@ -4,7 +4,7 @@
 
 | # | Status | Program | Platform | Program URL | Scope URL | Tested By | Date | Baseline Tested (1-5) | Result | Finding Type | Severity | Next Action |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | ⚪ | | | | | | | | | | | |
+| 1 | 🟡 | Atolls | Intigriti | https://app.intigriti.com/programs/atolls/atollsvdp | hotukdeals.com | Xing Yin | 2026-04-28 | 5 (partial) | 🔴 No finding (pre-auth) — GraphQL admin username leak limited to user ID 1 only | — | — | **Awaiting human:** Register account → post-auth IDOR + voucher testing |
 
 ---
 
